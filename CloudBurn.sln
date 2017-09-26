@@ -16,6 +16,7 @@ Global
 		CloudBurn\CloudBurn\CloudBurn.projitems*{15d5e2f0-6b2b-4457-b641-f28679a52f4c}*SharedItemsImports = 13
 		CloudBurn\CloudBurn\CloudBurn.projitems*{283de918-9043-42bb-9243-9b59c92cde34}*SharedItemsImports = 4
 		CloudBurn\CloudBurn\CloudBurn.projitems*{b3e22c98-e769-4b3e-a67c-67b7e5baa260}*SharedItemsImports = 4
+		CloudBurn\CloudBurn\CloudBurn.projitems*{e2e4e758-a72a-46ec-960d-877e40bef4ec}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU
